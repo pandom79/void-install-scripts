@@ -1,0 +1,6 @@
+Authors
+-------
+
+Maintainers:
+
+* Domenico Panella <pandom79@gmail.com>
