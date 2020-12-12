@@ -37,3 +37,5 @@ Options
 
 *-h*::
 	Output syntax and command line options.
+
+include::footer.asciidoc[]
